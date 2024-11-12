@@ -1,0 +1,4 @@
+Form events
+
+- Capture data or infornation from a user
+- E.g. a username & password

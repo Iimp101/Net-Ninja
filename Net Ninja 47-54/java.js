@@ -49,3 +49,26 @@
 
 
 
+/**
+ * DOM - Document Object Model - Petslist
+ *
+ * Loopa över array:en `pets` och för varje `pet`, lägg till en `<li>` till
+ * `#petslist` med info om varje pet enligt nedan. Ersätt det som står med
+ * stora bokstäver med rätt sak för varje `pet`.
+ *
+ * Koden ni skriver ska fungera *oavsett* hur många (eller få) husdjur som
+ * finns i listan `pets`! Ni kan testa detta genom att ta bort kommenteringen
+ * av det sista husdjuret i listan.
+ *
+ * 👶🏻 STEG 1
+ * NAME is a SPECIES of AGE year(s) old.
+ *
+ * 😊 STEG 2
+ * NAME is a SPECIES of AGE year(s) old. His favorite
+ * hobbies is to HOBBIES.
+ *
+ * 🤓 STEG 3 (skriv endast ut owner om det finns någon)
+ * NAME is a SPECIES of AGE year(s) old. His owner is OWNER and his favorite
+ * hobbies is to HOBBIES.
+ *
+ */

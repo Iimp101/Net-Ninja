@@ -66,5 +66,5 @@
 
 TITLE         H1    DIV    DIV    ----- siblings
 
-                     p      p    ------ siblings
+                     p      p    ------ child to div / siblings
 */ 
